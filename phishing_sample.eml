@@ -1,0 +1,70 @@
+Return-Path: <bounce@mailer77.cheap-host.example>
+Received: from mail-x7.cheap-host.example (mail-x7.cheap-host.example
+ [198.51.100.23]) by mx.northwind-lab.example with ESMTP id 4F2A91B; Sat, 24
+ Oct 2026 08:14:30 +0000
+Received: from [10.4.0.19] (unknown [10.4.0.19]) by mail-x7.cheap-host.example
+ (Postfix) with ESMTPA id 9C1D2E; Sat, 24 Oct 2026 08:14:24 +0000
+Authentication-Results: mx.northwind-lab.example; spf=fail (sender IP
+ 198.51.100.23 is not permitted by micr0soft-support.example)
+ smtp.mailfrom=bounce@mailer77.cheap-host.example; dkim=none (no signature);
+ dmarc=fail (p=none) header.from=micr0soft-support.example
+From: "Microsoft Account Team" <security-alert@micr0soft-support.example>
+Reply-To: <helpdesk.recovery.2026@freemail.example>
+To: sara.ahmed@northwind-lab.example
+Subject: URGENT: Your account will be suspended in 24 hours
+Date: Sat, 24 Oct 2026 08:14:22 +0000
+Message-ID: <7f3a9c21.88d1@mailer77.cheap-host.example>
+X-Mailer: MassMailer Pro 3.2
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="===============6960620418102038594=="
+
+--===============6960620418102038594==
+Content-Type: multipart/alternative;
+ boundary="===============2034899320625224735=="
+
+--===============2034899320625224735==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Dear User,
+
+We detected unusual sign-in activity on your account.
+Your account will be SUSPENDED in 24 hours unless you verify your identity no=
+w.
+
+Verify here: https://account.microsoft.com/security
+
+An invoice for your recent purchase is attached. Please open it to review the=
+ charge.
+
+Microsoft Account Team
+
+--===============2034899320625224735==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html><body>
+<p>Dear User,</p>
+<p>We detected unusual sign-in activity on your account.<br>
+Your account will be <b>SUSPENDED</b> in 24 hours unless you verify your iden=
+tity now.</p>
+<p>Verify here: <a href=3D"http://micr0soft-support.example/login/verify?id=
+=3D88412">https://account.microsoft.com/security</a></p>
+<p>An invoice for your recent purchase is attached. Please open it to review =
+the charge.</p>
+<p>Microsoft Account Team</p>
+</body></html>
+
+--===============2034899320625224735==--
+
+--===============6960620418102038594==
+Content-Type: text/html
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="Invoice_8841.pdf.html"
+MIME-Version: 1.0
+
+PGh0bWw+PGJvZHk+U0lNVUxBVEVEIFNBTVBMRSAtIGhhcm1sZXNzIGZpbGUgZm9yIHRyYWluaW5n
+IG9ubHkuPC9ib2R5PjwvaHRtbD4K
+
+--===============6960620418102038594==--
